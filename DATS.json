@@ -40,9 +40,7 @@
     ],
     "licenses": [
         {
-            "name": {
-                "id": "cc-zero"
-            }
+            "name": "cc-zero"
         }
     ],
     "keywords": [
