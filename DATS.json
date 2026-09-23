@@ -1,6 +1,6 @@
 {
     "title": "(Dataset) Strong Coupling of Retinal Thickness and Optic Nerve Myelin in Vivo",
-    "description": "About\n\nDataset provided for NeuroLibre preprint.\n\n Living preprint: https://preprint.neurolibre.org/10.55458/neurolibre.00050\n\nAuthor repo: https://github.com/haplante/oct-t1-paper\n\nNeuroLibre fork: https://github.com/roboneurolibre/oct-t1-paper\n\nFor details, please visit the corresponding NeuroLibre technical screening.\n\nhttps://neurolibre.org\n\n✉️ info@neurolibre.org",
+    "description": "About\n\nDataset provided for NeuroLibre preprint.\n\n Living preprint: https://preprint.neurolibre.org/10.55458/neurolibre.00050\n\nAuthor repo: https://github.com/haplante/oct-t1-paper\n\nNeuroLibre fork: https://github.com/roboneurolibre/oct-t1-paper\n\nFor details, please visit the corresponding NeuroLibre technical screening.\n\nhttps://neurolibre.org\n\n info@neurolibre.org",
     "creators": [
         {
             "name": "Hugo Albert Plante"
