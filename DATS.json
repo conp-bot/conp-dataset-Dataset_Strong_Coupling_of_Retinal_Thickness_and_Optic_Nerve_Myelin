@@ -105,6 +105,14 @@
                     "value": "CONP"
                 }
             ]
+        },
+        {
+            "category": "evidence_publication",
+            "values": [
+                {
+                    "value": "10.55458/neurolibre.00050"
+                }
+            ]
         }
     ]
 }
