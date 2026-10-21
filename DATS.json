@@ -31,6 +31,7 @@
         }
     ],
     "version": "1.0.0",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -58,7 +59,12 @@
                 "value": "KB"
             },
             "access": {
-                "landingPage": "https://zenodo.org/record/22019074"
+                "landingPage": "https://zenodo.org/record/22019074", 
+                "authorizations": [
+                      {
+                        "value": "open"
+                      }
+                ]
             },
             "formats": [
                 "N/A"
@@ -102,7 +108,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "Canadian"
                 }
             ]
         },
