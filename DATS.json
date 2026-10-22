@@ -62,7 +62,7 @@
                 "landingPage": "https://zenodo.org/record/22019074", 
                 "authorizations": [
                       {
-                        "value": "open"
+                        "value": "public"
                       }
                 ]
             },
